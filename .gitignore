@@ -3,4 +3,3 @@
 *.tfstate.backup
 *.tfvars
 .terraform.lock.hcl
-install_n8n.sh
